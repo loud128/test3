@@ -1,0 +1,41 @@
+body {
+  background-color: #f3f4f0;
+  font-family: sans-serif;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+  border: 50px solid white;
+}
+
+li {
+  font-size: 14px;
+  padding: 5px;
+}
+
+.Dr {
+  font-size: 13px;
+  text-align: center;
+  padding-top: 40px;
+}
+
+h4 {
+  text-align: center;
+  padding: 10px
+}
+
+h2 {
+  text-align: center;
+  padding: 10px
+}
+
+.header {
+  text-align: center;
+  text-transform: uppercase;
+  padding: 5px;
+  background-color: white;
+  border-bottom: 4px solid #fdb347;
+  font-size: 20px;
+}
